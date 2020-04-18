@@ -1,5 +1,5 @@
 # Hipparcos_with_Python
-Exploring Hipparcos catalog using Python and Pandas 
+### Exploring Hipparcos catalog using Python and Pandas 
 
 This notebook demonstrates how Python and Pandas can be used to explore and analyse data presented in the form of a catalog.
 
