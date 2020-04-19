@@ -9,5 +9,5 @@ The major Hipparcos catalog is a result of a three and half year long Hipparcos 
 <p>
 <img src="https://raw.githubusercontent.com/lilianasku/Hipparcos_with_Python/master/images/HR-diagram.jpg" width="400" height="460"/>
   
-<img src="https://raw.githubusercontent.com/lilianasku/Hipparcos_with_Python/master/images/visual_HR_diagram.png" width="400" height="420"/> 
+<img src="https://raw.githubusercontent.com/lilianasku/Hipparcos_with_Python/master/images/visual_HR_diagram.png" width="420" height="400"/> 
 </p>
