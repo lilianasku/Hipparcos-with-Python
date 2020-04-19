@@ -7,6 +7,6 @@ The major Hipparcos catalog is a result of a three and half year long Hipparcos 
 
 **Figure: Hipparcos HR diagram **
 
-![Hipparcos HR diagram](Images/HR-diagram.jpg?raw=true "Title")
+[Hipparcos HR diagram](Images/HR-diagram.jpg)
 
 <img src="Images/HR-diagram.jpg">
