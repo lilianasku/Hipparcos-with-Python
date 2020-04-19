@@ -7,5 +7,5 @@ The major Hipparcos catalog is a result of a three and half year long Hipparcos 
 
 ##### Hipparcos HR diagram
 <p>
-<img src="https://raw.githubusercontent.com/lilianasku/Hipparcos_with_Python/master/images/HR-diagram.jpg" width="220" height="240">
+<img src="https://raw.githubusercontent.com/lilianasku/Hipparcos_with_Python/master/images/HR-diagram.jpg" width="240" height="260">
 </p>
