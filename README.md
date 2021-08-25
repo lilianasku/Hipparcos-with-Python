@@ -9,7 +9,7 @@ Notebooks listed:
 
 <li> <a  href="https://github.com/lilianasku/Hipparcos-with-Python/blob/master/notebooks/Stars-Of-Hipparcos-Catalog.ipynb"> Exploratory data analysis of the Hipparcos catalog </a>
 
-<li> <a  href="https://github.com/lilianasku/Hipparcos-with-Python/blob/master/notebooks/Vusualizing-Hipparcos-With-Python.ipynb"> Visualizing Hipparcos catalog </a>
+<li> <a  href="https://github.com/lilianasku/Hipparcos-with-Python/blob/master/notebooks/Python-tips.ipynb"> Some Python tips </a>
 
 
 <i>The preinstalled environment includes the default Anaconda installation and Python 3.7. </i>
