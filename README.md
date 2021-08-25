@@ -7,7 +7,7 @@ The major Hipparcos catalog is a result of a three and half year long Hipparcos 
 
 Notebooks listed:
 
-<li> <a  href="https://github.com/lilianasku/Hipparcos-with-Python/blob/master/notebooks/Exploring-Hipparcos-With-Python.ipynb"> Exploratory data analysis for Hipparcos catalog </a>
+<li> <a  href="https://github.com/lilianasku/Hipparcos-with-Python/blob/master/notebooks/Stars-Of-Hipparcos-Catalog.ipynb"> Exploratory data analysis of the Hipparcos catalog </a>
 
 <li> <a  href="https://github.com/lilianasku/Hipparcos-with-Python/blob/master/notebooks/Vusualizing-Hipparcos-With-Python.ipynb"> Visualizing Hipparcos catalog </a>
 
